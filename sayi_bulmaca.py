@@ -14,7 +14,7 @@ for i in range(4):
 
 #Seçilen sayıyı, her basamağı bir eleman olacak şekilde dört elemandan oluşan bir diziye kopyala (Asıl[]). (GDJ-5)
 Asıl = [str(a1), str(a2), str(a3), str(a4)]
-
+print(Asıl)
 #Kullanıcıdan bir tahmin al. (GDJ-6)
 giris = input("Rakamları farklı dört basamaklı bir sayı tuttum, bakalım bilebilecek misin? Tahminini söyle :")
 
